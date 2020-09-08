@@ -3,3 +3,6 @@ Maven is a project development management and comprehension tool. Based on the c
 
 these are new lines of text
 added to test file
+
+Why download Java?
+Java technology allows you to work and play in a secure computing environment. Upgrading to the latest Java ver
