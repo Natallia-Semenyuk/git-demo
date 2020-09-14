@@ -15,5 +15,3 @@ added to test file
 
 Why download Java?
 Java technology allows you to work and play in a secure computing environment. Upgrading to the latest Java ver
-++++++++++++++
-IntelliJ IDEA includes plugins that provide integration with different version control systems and application servers, add support for various frameworks and development technologies, and so on. To increase performance, you can disable plugins that you do not need. If necessary, you can enable them later in the Settings/Preferences dialog Ctrl+Alt+S under Plugins. For more information, see Manage plugins.
