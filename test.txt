@@ -20,3 +20,6 @@ IntelliJ IDEA includes plugins that provide integration with different version c
 
 18-09
 Named and described by Polish paleontologist Maria Magdalena Borsuk-Białynicka in 1977, Opisthocoelicaudia was first thought to be a new member of the Camarasauridae, but is currently considered a derived member of the Titanosauria. Its exact relationships within Titanosauria are contentious, but it may have been close to the North American Alamosaurus. All Opisthocoelicaudia fossils stem from the Nemegt Formation.
+
+upd for 18-09
+Despite being rich in dinosaur fossils, the only other sauropod from this rock unit is Nemegtosaurus, which is known from a single skull. Since the skull of Opisthocoelicaudia remains unknown, several researchers have suggested that Nemegtosaurus and Opisthocoelicaudia may represent the same species. Sauropod footprints from the Nemegt Formation, which include skin impressions, can probably be referred to either Nemegtosaurus or Opisthocoelicaudia as these are the only known sauropods from this formation.
