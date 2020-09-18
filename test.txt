@@ -17,3 +17,6 @@ Why download Java?
 Java technology allows you to work and play in a secure computing environment. Upgrading to the latest Java ver
 ++++++++++++++
 IntelliJ IDEA includes plugins that provide integration with different version control systems and application servers, add support for various frameworks and development technologies, and so on. To increase performance, you can disable plugins that you do not need. If necessary, you can enable them later in the Settings/Preferences dialog Ctrl+Alt+S under Plugins. For more information, see Manage plugins.
+
+18-09
+Named and described by Polish paleontologist Maria Magdalena Borsuk-Białynicka in 1977, Opisthocoelicaudia was first thought to be a new member of the Camarasauridae, but is currently considered a derived member of the Titanosauria. Its exact relationships within Titanosauria are contentious, but it may have been close to the North American Alamosaurus. All Opisthocoelicaudia fossils stem from the Nemegt Formation.
