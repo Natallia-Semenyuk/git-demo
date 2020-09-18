@@ -1,4 +1,5 @@
-
+upd from feature
+The type specimen was discovered between 10 and 23 June 1965, during a joint Polish-Mongolian paleontological expedition led by Polish paleontologist Zofia Kielan-Jaworowska.[1][2] The largest of a series of expeditions carried out in 1963–1971, this expedition involved 21 members, which at times were supported by additional hired Mongolian workers. The site of discovery is located in Ömnögovi Province in southern Mongolia in the Altan Uul area, which exposes some 100 km2 of badlands. The sediments exposed at Altan Uul belong to the Nemegt Formation, the youngest of the three geological formations of the Nemegt Basin. Opisthocoelicaudia was the first of several important dinosaur discoveries made by the 1965 expedition. The other finds, made at different localities, include several skeletons of the tyrannosaurid Tarbosaurus as well as the type specimens of the giant ornithomimosaur Deinocheirus, the sauropod Nemegtosaurus, and the pachycephalosaur Homalocephale.[2]
 
 Why download Java?
 Java technology allows you to work and play in a secure computing environment. Upgrading to the latest Java ver
