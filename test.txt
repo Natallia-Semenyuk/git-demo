@@ -3,13 +3,5 @@ Opisthocoelicaudia /ɒˌpɪsθoʊsɪlɪˈkɔːdiə/ is a genus of sauropod dinos
 upd from feature
 The type specimen was discovered between 10 and 23 June 1965, during a joint Polish-Mongolian paleontological expedition led by Polish paleontologist Zofia Kielan-Jaworowska.[1][2] The largest of a series of expeditions carried out in 1963–1971, this expedition involved 21 members, which at times were supported by additional hired Mongolian workers. The site of discovery is located in Ömnögovi Province in southern Mongolia in the Altan Uul area, which exposes some 100 km2 of badlands. The sediments exposed at Altan Uul belong to the Nemegt Formation, the youngest of the three geological formations of the Nemegt Basin. Opisthocoelicaudia was the first of several important dinosaur discoveries made by the 1965 expedition. The other finds, made at different localities, include several skeletons of the tyrannosaurid Tarbosaurus as well as the type specimens of the giant ornithomimosaur Deinocheirus, the sauropod Nemegtosaurus, and the pachycephalosaur Homalocephale.[2]
 
-Why download Java?
-Java technology allows you to work and play in a secure computing environment. Upgrading to the latest Java ver
-++++++++++++++
-IntelliJ IDEA includes plugins that provide integration with different version control systems and application servers, add support for various frameworks and development technologies, and so on. To increase performance, you can disable plugins that you do not need. If necessary, you can enable them later in the Settings/Preferences dialog Ctrl+Alt+S under Plugins. For more information, see Manage plugins.
+upd for 22-09
 
-18-09
-Named and described by Polish paleontologist Maria Magdalena Borsuk-Białynicka in 1977, Opisthocoelicaudia was first thought to be a new member of the Camarasauridae, but is currently considered a derived member of the Titanosauria. Its exact relationships within Titanosauria are contentious, but it may have been close to the North American Alamosaurus. All Opisthocoelicaudia fossils stem from the Nemegt Formation.
-
-upd for 18-09
-Despite being rich in dinosaur fossils, the only other sauropod from this rock unit is Nemegtosaurus, which is known from a single skull. Since the skull of Opisthocoelicaudia remains unknown, several researchers have suggested that Nemegtosaurus and Opisthocoelicaudia may represent the same species. Sauropod footprints from the Nemegt Formation, which include skin impressions, can probably be referred to either Nemegtosaurus or Opisthocoelicaudia as these are the only known sauropods from this formation.

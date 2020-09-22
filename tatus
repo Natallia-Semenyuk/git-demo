@@ -1,0 +1,65 @@
+[33mcommit e9f24c6ec581d0304e907a3abe9dd57db2807f3b[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Natallia Semenyuk <natallia.parfirova@gmail.com>
+Date:   Fri Sep 18 16:39:30 2020 +0200
+
+    add upd for 18-09
+
+[33mcommit 4cf3a624dbe907e4f9abf0be0794ad54e748d4af[m
+Author: Natallia Semenyuk <natallia.parfirova@gmail.com>
+Date:   Fri Sep 18 16:38:07 2020 +0200
+
+    add new details 18-09
+
+[33mcommit 5e48bceb28b4aff8e0ff5ed78bf4b15a346936a0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Natallia Semenyuk <natallia.parfirova@gmail.com>
+Date:   Mon Sep 14 12:17:43 2020 +0200
+
+    Revert "Revert "add updated test file with new text""
+    
+    This reverts commit 98ddd8252b0dd3134ca078222bd4fe9ebcebd574.
+
+[33mcommit 98ddd8252b0dd3134ca078222bd4fe9ebcebd574[m
+Author: Natallia Semenyuk <natallia.parfirova@gmail.com>
+Date:   Mon Sep 14 12:13:43 2020 +0200
+
+    Revert "add updated test file with new text"
+    
+    This reverts commit b9c0718beb2f1c9d62ddd33553c8dbe850dd9bd6.
+    
+    I`m so sorry!
+
+[33mcommit b9c0718beb2f1c9d62ddd33553c8dbe850dd9bd6[m
+Author: Natallia Semenyuk <natallia.parfirova@gmail.com>
+Date:   Mon Sep 14 12:10:26 2020 +0200
+
+    add updated test file with new text
+
+[33mcommit bcd1119ad4f7ff3be8f9a166be5c2708a8acda7d[m
+Author: Natallia Semenyuk <natallia.parfirova@gmail.com>
+Date:   Thu Sep 10 16:39:33 2020 +0200
+
+    new text in file
+
+[33mcommit 493edc2ab0644d678746915fda0bdb5d3aa4c206[m
+Author: Natallia Semenyuk <natallia.parfirova@gmail.com>
+Date:   Tue Sep 8 15:52:39 2020 +0200
+
+    java info added
+
+[33mcommit c6499ed48403d88cb10f1819808b30aa71b7b767[m
+Author: Natallia-Semenyuk <70947319+Natallia-Semenyuk@users.noreply.github.com>
+Date:   Tue Sep 8 15:42:19 2020 +0200
+
+    update test file
+
+[33mcommit bab6b58d86b935edec4a9e4d1d93a79c40b9accb[m
+Author: Natallia Semenyuk <natallia.parfirova@gmail.com>
+Date:   Tue Sep 8 15:34:42 2020 +0200
+
+    add test file
+
+[33mcommit 58aacc70e3005cc8e3d2ecbe940b9e1b0bca0f9b[m
+Author: Natallia-Semenyuk <70947319+Natallia-Semenyuk@users.noreply.github.com>
+Date:   Tue Sep 8 15:23:37 2020 +0200
+
+    Initial commit
